@@ -1,6 +1,6 @@
 import unittest
 import sys, os
-sys.path.append(os.path.join(os.path.dirname(sys.path[0]), "app"))
+sys.path.append(os.path.join(os.path.dirname(sys.path[0])))
 from main import difficulty_select, intro, lob_grenades,call_airstrike,counter_attack
 
 log_file_name = "game-test.txt"

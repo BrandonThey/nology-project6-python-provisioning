@@ -272,4 +272,4 @@ def main():
     intro(game_instance,log_file_name)
     return 0
 
-# main()
+main()
