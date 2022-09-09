@@ -9,6 +9,7 @@ Vagrant.configure("2") do |config|
 end
 
 
+# M1 Chip Cofigurations
 # Vagrant.configure("2") do |config|
 #   config.vm.box = 'spox/ubuntu-arm'
 #   config.vm.box_version = "1.0.0"

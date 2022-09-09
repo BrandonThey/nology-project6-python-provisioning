@@ -1,0 +1,54 @@
+New Game Started, none, 25 
+Difficulty Chosen, Initiate, 25 
+New Game Started, none, 20 
+Difficulty Chosen, Astartes, 20 
+New Game Started, none, 15 
+Difficulty Chosen, Custodes, 15 
+Decision Made, Lob Grenades, 25 
+Decision Made, Defend Base, 15 
+Game Event, Counter Attack, 8 
+Decision Made, Eliminate Carnifex, 8 
+Ending Achieved, Standard Ending, 5 
+Decision Made, Defend Base, -5 
+Ending Decided, Bad Ending, -12 
+Decision Made, Eliminate Carnifex, -12 
+Ending Achieved, Bad Ending, -18 
+New Game Started, none, 25 
+Difficulty Chosen, Initiate, 25 
+Decision Made, Lob Grenades, 25 
+Decision Made, Defend Base, 15 
+Game Event, Counter Attack, 8 
+Decision Made, Eliminate Carnifex, 8 
+Ending Achieved, Standard Ending, 5 
+Decision Made, Defend Base, -5 
+Ending Decided, Bad Ending, -12 
+Decision Made, Eliminate Carnifex, -12 
+Ending Achieved, Bad Ending, -18 
+New Game Started, none, 25 
+Difficulty Chosen, Initiate, 25 
+Decision Made, Lob Grenades, 25 
+Decision Made, Defend Base, 15 
+Game Event, Counter Attack, 8 
+Decision Made, Eliminate Carnifex, 8 
+Ending Achieved, Standard Ending, 5 
+Decision Made, Defend Base, -5 
+Ending Decided, Bad Ending, -12 
+Decision Made, Eliminate Carnifex, -12 
+Ending Achieved, Bad Ending, -18 
+New Game Started, none, 25 
+Difficulty Chosen, Initiate, 25 
+Decision Made, Lob Grenades, 25 
+Decision Made, Defend Base, 15 
+Game Event, Counter Attack, 8 
+Decision Made, Eliminate Carnifex, 8 
+Ending Achieved, Standard Ending, 2 
+Decision Made, Defend Base, -8 
+Ending Decided, Bad Ending, -15 
+Decision Made, Eliminate Carnifex, -15 
+Ending Achieved, Bad Ending, -21 
+New Game Started, none, 25 
+Difficulty Chosen, Initiate, 25 
+New Game Started, none, 20 
+Difficulty Chosen, Astartes, 20 
+New Game Started, none, 15 
+Difficulty Chosen, Custodes, 15 
